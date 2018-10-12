@@ -1,5 +1,5 @@
 // Write your cade below:
-module.exports = function yushu_prompt()
+function yushu_prompt()
 {
 var a=prompt("请输入第一个数","");
 var b=prompt("请输入第二个数","");
